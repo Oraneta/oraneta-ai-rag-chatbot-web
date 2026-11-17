@@ -95,38 +95,6 @@ La aplicación combina tecnologías de inteligencia artificial, desarrollo web, 
 | Automatización | APScheduler |
 | Infraestructura | Microsoft Azure App Service |
 
-### Flujo de funcionamiento
-
-```text
-Usuario
-   |
-   v
-Carga de documento empresarial
-   |
-   v
-Backend Python / Flask
-   |
-   v
-OpenAI Vector Store
-   |
-   v
-Creación de sesión temporal
-   |
-   v
-Asistente comercial con IA
-   |
-   v
-Preguntas del usuario
-   |
-   v
-Recuperación de información (RAG)
-   |
-   v
-Generación de respuesta
-   |
-   v
-Respuesta al usuario
-```
 
 ---
 
